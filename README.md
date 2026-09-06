@@ -1,4 +1,4 @@
-A Next.js App Router portfolio, blog, and about page with a pastel scrapbook feel. It is ready to deploy on Vercel.
+A Next.js App Router portfolio, blog, and about page. It is ready to deploy on Vercel.
 
 ## Run locally
 
@@ -17,7 +17,3 @@ Use `npm run build` to make a production build.
 ## Deploy to Vercel
 
 Push this repository to GitHub, import it at [vercel.com/new](https://vercel.com/new), and accept Vercel's detected Next.js settings. No environment variables are required for the starter.
-
-## Easter egg
-
-The 404 page is intentionally odd. Try visiting a route that does not exist.
