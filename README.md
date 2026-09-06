@@ -1,5 +1,3 @@
-# Alex Kim's playful developer site
-
 A Next.js App Router portfolio, blog, and about page with a pastel scrapbook feel. It is ready to deploy on Vercel.
 
 ## Run locally
