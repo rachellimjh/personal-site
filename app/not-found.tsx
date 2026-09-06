@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound() { return <main className="mx-auto flex min-h-[70vh] max-w-6xl items-center px-5 md:px-8"><div><p className="mono text-xs uppercase tracking-[.16em] text-[#64706b]">404</p><h1 className="mt-4 text-5xl font-semibold tracking-[-.07em] md:text-7xl">Nothing to see here.</h1><p className="mt-5 text-lg text-[#64706b]">This route does not exist, but the rest of the site does.</p><Link href="/" className="mt-9 inline-block border-b border-[#17201d] pb-1 font-medium">Back home →</Link></div></main>; }
